@@ -40,8 +40,8 @@ export default function About() {
   
 
   return (
-    <div classNameName='container' style={myStyle}>
-        <h2 classNameName="my-2">About Us</h2>
+    <div className='container' style={myStyle}>
+        <h2 className="my-2">About Us</h2>
         <div className="accordion" id="accordionExample" style={myStyle}>
         <div className="accordion-item" style={myStyle}>
             <h2 className="accordion-header"  >
